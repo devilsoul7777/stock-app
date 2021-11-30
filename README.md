@@ -1,11 +1,5 @@
 # stock-app
 
-# Watch the tutorial video
-
-[How to build a Stock price web app | Streamlit #20](https://youtu.be/0pHJOzNDdOo)
-
-<a href="https://youtu.be/0pHJOzNDdOo"><img src="http://img.youtube.com/vi/0pHJOzNDdOo/0.jpg" alt="How to build a Stock price web app | Streamlit #20" title="How to build a Stock price web app | Streamlit #20" width="400" /></a>
-
 # Demo
 
 Launch the web app:
